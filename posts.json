@@ -1,0 +1,50 @@
+[
+  {
+    "_id": 1,
+    "text": "my first note as user a ",
+    "creator": "a@a.a",
+    "upvotes": [],
+    "downvotes": []
+  },
+  {
+    "_id": 2,
+    "text": "here is my second note as user a but with 1 upvote ",
+    "creator": "a@a.a",
+    "upvotes": [
+      "b@b.b"
+    ],
+    "downvotes": []
+  },
+  {
+    "_id": 3,
+    "text": "here is my 3rd note as a user a but with 1 down vote ",
+    "creator": "a@a.a",
+    "upvotes": [
+      "k@k.a",
+      "b@b.b",
+      "c@c.c"
+    ],
+    "downvotes": []
+  },
+  {
+    "_id": 4,
+    "text": "I am user B",
+    "creator": "b@b.b",
+    "upvotes": [],
+    "downvotes": []
+  },
+  {
+    "_id": 5,
+    "text": "user b note 1 with 1 upvote ",
+    "creator": "b@b.b",
+    "upvotes": [],
+    "downvotes": []
+  },
+  {
+    "_id": 6,
+    "text": "user b note with 1 downvote",
+    "creator": "b@b.b",
+    "upvotes": [],
+    "downvotes": []
+  }
+]
